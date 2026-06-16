@@ -37,5 +37,6 @@ The dashboard provides a comprehensive view of sales performance, profit trends,
 - **Product Analysis**: Top performing subcategories
 - **Filter Panel**: Interactive slicers for data exploration
 
-## 📁 Project Structure
+![App Screenshot](excel_sales_dash.png)
+
 
