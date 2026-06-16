@@ -1,70 +1,41 @@
 # Excel-Sales-Dashboard
 
-An interactive sales analytics dashboard built using **Microsoft Excel** for monitoring and analyzing e-commerce performance metrics across multiple dimensions.
+This project presents an interactive Sales Analytics Dashboard built using **Microsoft Excel** to analyze and visualize key business performance metrics of a super shop.
 
-## 📊 Dashboard Overview
+## 🔍 Overview
 
-The dashboard provides comprehensive insights into e-commerce sales performance through key metrics and visualizations, all created using Excel's native features.
+The dashboard provides a comprehensive view of sales performance, profit trends, and customer behavior across different dimensions such as region, category, segment, and payment mode. All visualizations and calculations are created using Excel's native features including PivotTables, PivotCharts, Slicers, and Formulas.
 
-### Key Performance Indicators (KPIs)
+## ⚙️ Tools & Techniques Used
 
-| Metric | Value | YoY Growth |
-|--------|-------|------------|
-| Total Sales | $2,297,200.86 | +20.62% |
-| Total Profit | $286,397.02 | +14.41% |
-| Quantity Sold | 37,873 units | +28.84% |
-| Number of Sales | 9,994 transactions | +27.45% |
-| Profit Margin | 12.47% | — |
+- **Data Visualization**: Excel PivotCharts, Column Charts, Line Charts, Pie Charts, and Maps
+- **Data Processing**: Excel Power Query, Formulas (SUMIFS, COUNTIFS, VLOOKUP, XLOOKUP)
+- **Interactive Elements**: Slicers, Timelines, and Form Controls for dynamic filtering
+- **KPI Dashboard**: Created using Excel formulas and conditional formatting
+- **Data Summarization**: PivotTables for quick aggregation and analysis
+- **Geographic Analysis**: Excel Map Charts for state-wise distribution
 
-## 🛠️ Tools & Technologies
+## 📈 Key Features
 
-- **Data Visualization**: Microsoft Excel (PivotTables, PivotCharts, Slicers)
-- **Data Processing**: Excel Power Query / Formulas
-- **Data Source**: E-commerce sales dataset (2011-2014)
-- **Version Control**: Git & GitHub
+- **KPI Cards** for quick insights (Sales, Profit, Quantity, YoY Growth)
+- **Category & Sub-category** performance breakdown
+- **Payment mode** and **customer segment** analysis
+- **Monthly sales and profit** trend comparison (2019–2020)
+- **Interactive regional filtering** (Central, East, South, West)
+- **Geographical sales distribution** using Excel Map visualization
+- **Interactive Slicers** for year, region, and category filtering
+- **Dynamic PivotCharts** that update with filter selections
+- **Top 5 products** analysis by sales volume
+- **Profit margin** calculation and visualization
 
-## 📈 Analysis Components
+## 📊 Dashboard Components
 
-### 1. Sales & Profit Trend Analysis
-- Monthly breakdown using **Excel PivotCharts**
-- Line charts showing sales and profit trends
-- Year-over-year growth calculations using Excel formulas
-
-### 2. Category Performance
-
-**Profit Distribution:**
-- Technology: $145.45K
-- Office Supplies: $122.49K
-- Furniture: $18.45K
-
-**Sales Share:**
-- Technology: 36%
-- Furniture: 33%
-- Office Supplies: 31%
-
-### 3. Geographic Analysis
-- State-wise sales distribution using **Excel Maps**
-- Identifies top-performing regions
-
-### 4. Product Performance
-
-**Top 5 Subcategories by Sales:**
-1. Phones: $330.01K
-2. Chairs: $328.45K
-3. Storage: $223.84K
-4. Tables: $206.97K
-5. Binders: $203.41K
-
-### 5. Interactive Filters
-- **Excel Slicers** for year-based filtering (2011-2015)
-- **Timeline** controls for dynamic data exploration
-- Interactive PivotTable connections
-
-## 🔍 Key Insights
-
-1. **Strong Overall Growth**: Consistent double-digit growth across all metrics
-2. **Technology Leadership**: Technology category dominates both in sales share and profitability
-3. **Seasonal Patterns**: Clear monthly trends visible in sales and profit analysis
-4. **Product Focus**: Phones and Chairs are the top-performing subcategories
+- **Summary Section**: Key metrics with YoY growth indicators
+- **Sales & Profit Trends**: Monthly line chart for performance tracking
+- **Category Analysis**: Profit distribution and sales share breakdown
+- **Geographic View**: State-wise sales distribution map
+- **Product Analysis**: Top performing subcategories
+- **Filter Panel**: Interactive slicers for data exploration
 
 ## 📁 Project Structure
+
